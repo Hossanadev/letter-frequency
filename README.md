@@ -1,2 +1,2 @@
 # letter-frequency
-Sololearn Python Code Project 1.
+Sololearn: Python Data Structure - Code Project 1.
